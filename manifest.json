@@ -1,7 +1,7 @@
 {
-  "name": "Auroraの主页",
-  "short_name": "Auroraの主页",
-  "description": "一个默默无闻的主页",
+  "name": "伊甸园",
+  "short_name": "伊甸园",
+  "description": "I offer you lean streets, desperate sunsets, the moon of the jagged suburbs.",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#424242",
