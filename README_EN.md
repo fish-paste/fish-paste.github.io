@@ -1,7 +1,7 @@
 English | [Chinese](./README.md)
 
 <p>
-<strong><h2>Auroraの主页</h2></strong>
+<strong><h2>伊甸园</h2></strong>
 Simple little homepage, had enough of the original one and made a new one
 </p>
 
